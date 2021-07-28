@@ -17,7 +17,9 @@ Desenvolvido em 8 horas.
 
 ## Problema
 
-<p id="problema" align="center"> Muitas pessoas, na necessidade de conseguir uma oportunidade, acabam enviando centenas de curriculos, preenchendo também, centenas de diferentes curriculos em sites diferentes. Tomando não apenas um tempo desnecessario, que poderia ser gasto em outras atividades, como passar um tempo com a sua familia ou até mesmo estudar, mas também gastam muita energia, o que pode acabar impactando negativamente, no começo do dia de uma pessoa.</p>
+<p id="problema" align="center"> 
+Muitas pessoas, na necessidade de conseguir uma oportunidade, acabam enviando centenas de curriculos, preenchendo também, centenas de diferentes curriculos em sites diferentes. Tomando não apenas um tempo desnecessario, que poderia ser gasto em outras atividades, como passar um tempo com a sua familia ou até mesmo estudar, mas também gastam muita energia, o que pode acabar impactando negativamente, no começo do dia de uma pessoa.
+</p>
 
 
 
@@ -29,7 +31,7 @@ Desenvolvido em 8 horas.
 
 <h2 id="andamento" align="center"> 
 	🚧 Projeto concluído 🚀
-</h4>
+</h2>
 
 
 
@@ -58,9 +60,10 @@ Desenvolvido em 8 horas.
 
 
 
-<h3 id="decisoes">Decisões</h3>
+<h3 id="decisoes"> Decisões </h3>
 	
-	<p>Optei neste projeto por utilizar duas tecnologias, uma para o front-End, sendo o React e a outra para desenvolver o backend, criar essa conexão da api, com o banco de dados, escolhi o FireStore ( FireBase ).
+	<p> 
+	Optei neste projeto por utilizar duas tecnologias, uma para o front-End, sendo o React e a outra para desenvolver o backend, criar essa conexão da api, com o banco de dados, escolhi o FireStore ( FireBase ).
 	O React já não restava duvidas, que seria utilizado, pela praticidade e tecnologia, por ser em minha visão, a melhor biblioteca para javaScript. 
 	Já o fireStore, optei por ele, um pouco pela questão da familiaridade, que tenho, mas muito mais, pela questão do tempo, pela escasses, de desenvolvimento mesmo.
 	Como colocado a cima, desenvolvi esse projeto em 8 horas, sendo que não tinha conhecimento na parte de criação mesmo, configuração do firebase, implementar essas questoes de autenticação, era coisas que realmente nao sabia, mexer com rotas, não fazia ideia de como funcionavam, essas configurações e implementações.
