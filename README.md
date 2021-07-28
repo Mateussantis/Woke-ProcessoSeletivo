@@ -75,10 +75,10 @@ Muitas pessoas, na necessidade de conseguir uma oportunidade, acabam enviando ce
 <h3 id="rodar">Como rodar o projeto ?</h3>
 	
 	<p>
-1: Clonar o projeto.
-2: Abrir o terminal dentro da pasta.
-3: Rodar o comando "Yarn", pois instalara todas as dependencias.
-4: Por ultimo, apenas rodar o comando "Yarn start", que botara o servidor para funcionar.
+		1: Clonar o projeto.
+		2: Abrir o terminal dentro da pasta.
+		3: Rodar o comando "Yarn", pois instalara todas as dependencias.
+		4: Por ultimo, apenas rodar o comando "Yarn start", que botara o servidor para funcionar.
 	</p>
 	
 	
