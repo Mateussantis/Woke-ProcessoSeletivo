@@ -34,7 +34,7 @@ Desenvolvido em 8 horas.
 
 
 <p id="funcionalidades"></p>
-<h2>Funcionalidades</h2>
+<h5>Funcionalidades</h2>
 
 - [x] Login ( Autenticação ) | FireAuth.
     - [x] Feedback ( Resposta para o usuario, positiva e negativa ) | Bootstrap ( ReactStrap ).
