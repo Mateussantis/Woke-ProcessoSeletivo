@@ -6,17 +6,18 @@ Desenvolvido em 8 horas.
  <a href="#problema">Problema</a> •
  <a href="#solucao">Solução</a> • 
  <a href="#funcionalidades">Funcionalidades</a> •
- <a href="#tecnologias">Tecnologias</a> •
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenca">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#andamento">Andamento</a> •
+ <a href="#tecnologias">Tecnologias</a> •  
+ <a href="#decisoes ">Decisões</a> • 	
+ <a href="#rodar ">Como rodar o projeto ?</a> •
+ <a href="#autor">Autor</a> •
 </p>
 
 
 
 ## Problema
 
-<p align="center"> Muitas pessoas, na necessidade de conseguir uma oportunidade, acabam enviando centenas de curriculos, preenchendo também, centenas de diferentes curriculos em sites diferentes. Tomando não apenas um tempo desnecessario, que poderia ser gasto em outras atividades, como passar um tempo com a sua familia ou até mesmo estudar, mas também gastam muita energia, o que pode acabar impactando negativamente, no começo do dia de uma pessoa.</p>
+<p id="problema" align="center"> Muitas pessoas, na necessidade de conseguir uma oportunidade, acabam enviando centenas de curriculos, preenchendo também, centenas de diferentes curriculos em sites diferentes. Tomando não apenas um tempo desnecessario, que poderia ser gasto em outras atividades, como passar um tempo com a sua familia ou até mesmo estudar, mas também gastam muita energia, o que pode acabar impactando negativamente, no começo do dia de uma pessoa.</p>
 
 
 
@@ -26,7 +27,7 @@ Desenvolvido em 8 horas.
 
 
 
-<h2 align="center"> 
+<h2 id="andamento" align="center"> 
 	🚧 Projeto concluído 🚀
 </h4>
 
@@ -54,6 +55,12 @@ Desenvolvido em 8 horas.
 - [x] Front-End ( React )
     - [x] Styled-Components
 - [x] Back-End ( API ) - Firebase/FireStore
+
+
+
+<h3 id="decisoes">Decisões<h3>
+	
+	<p>Optei neste projeto por utilizar duas tecnologias, uma para o front-End</p>
 
 
 
