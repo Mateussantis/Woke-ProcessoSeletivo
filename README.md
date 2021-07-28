@@ -26,7 +26,7 @@ Desenvolvido em 8 horas.
 
 
 
-<h3 align="center"> 
+<h2 align="center"> 
 	🚧 Projeto concluído 🚀
 </h4>
 
@@ -34,7 +34,7 @@ Desenvolvido em 8 horas.
 
 
 <p id="funcionalidades"></p>
-<h5>Funcionalidades</h2>
+<h3>Funcionalidades</h2>
 
 - [x] Login ( Autenticação ) | FireAuth.
     - [x] Feedback ( Resposta para o usuario, positiva e negativa ) | Bootstrap ( ReactStrap ).
