@@ -60,7 +60,32 @@ Desenvolvido em 8 horas.
 
 <h3 id="decisoes">Decisões<h3>
 	
-	<p>Optei neste projeto por utilizar duas tecnologias, uma para o front-End</p>
+	<p>Optei neste projeto por utilizar duas tecnologias, uma para o front-End, sendo o React e a outra para desenvolver o backend, criar essa conexão da api, com o banco de dados, escolhi o FireStore ( FireBase ).
+	O React já não restava duvidas, que seria utilizado, pela praticidade e tecnologia, por ser em minha visão, a melhor biblioteca para javaScript. 
+	Já o fireStore, optei por ele, um pouco pela questão da familiaridade, que tenho, mas muito mais, pela questão do tempo, pela escasses, de desenvolvimento mesmo.
+	Como colocado a cima, desenvolvi esse projeto em 8 horas, sendo que não tinha conhecimento na parte de criação mesmo, configuração do firebase, implementar essas questoes de autenticação, era coisas que realmente nao sabia, mexer com rotas, não fazia ideia de como funcionavam, essas configurações e implementações.
+	Mas isso só me mostrou mais ainda o caminho da evolução, por mais besteira que possa parecer, sempre que realizo proezas que não era capaz de fazer, por achar que não tinha esse conhecimento, me sinto mais confortavel e prazer por me desafiar mais e mais e provar que sou a unica pessoa que está entre os desafios, a luta interna, é muito mais intensa do que a de qualquer conhecimento.
+	Ps: sei que o frontEnd não ficou bonito, mas pelo tempo, decidi focar nas coisas que eram importantes para o projeto, os MVPS.
+	</p>
+	
+
+<h3 id="rodar">Como rodar o projeto ?</h3>
+	
+	<p>
+		1: Clonar o projeto.
+		2: Abrir o terminal dentro da pasta.
+		3: Rodar o comando "Yarn", pois instalara todas as dependencias.
+		4: Por ultimo, apenas rodar o comando "Yarn start", que botara o servidor para funcionar.
+	</p>
+	
+	
+
+<h3>Autor</h3>
+	
+	<p>Mateus Silva De Santis</p>
+	
+	
+
 
 
 
