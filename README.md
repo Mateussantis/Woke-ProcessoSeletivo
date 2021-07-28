@@ -26,7 +26,7 @@ Desenvolvido em 8 horas.
 
 
 
-<h4 align="center"> 
+<h3 align="center"> 
 	🚧 Projeto concluído 🚀
 </h4>
 
@@ -34,17 +34,20 @@ Desenvolvido em 8 horas.
 
 
 <p id="funcionalidades"></p>
-### funcionalidades
+### Funcionalidades
 
 - [x] Login ( Autenticação ) | FireAuth.
     - [x] Feedback ( Resposta para o usuario, positiva e negativa ) | Bootstrap ( ReactStrap ).
+    
 - [x] Cadastro ( Autenticação ).
     - [x] Verificação ( Verificação se os campos foram digitados ) | Resolução com funções.
-    - [x] Feedback ( Resposta para o usuario, positiva e negatia ) | Bootstrap ( ReactStrap ). 
+    - [x] Feedback ( Resposta para o usuario, positiva e negatia ) | Bootstrap ( ReactStrap ).
+   
 - [x] Recuperação de senha ( Encaminhação de um e-mail, para o mesmo do cadastro, para nova senha ) | Funções desenvolvidas em cima da documentação do fireStore.
     - [x] Feedback ( Respostas positivas e negativas ) | Resolução com funções. 
     - [x] Verificação (Verifica se existe esse usuario em nosso sistema, antes mesmo de encaminhar o e-mail)
-    - [x] Contato profundo ( Antes de encaminhar o e-mail, é exibido uma mensagem, indicando-o com seu nome, para entrar em seu e-mail)  
+    - [x] Contato profundo ( Antes de encaminhar o e-mail, é exibido uma mensagem, indicando-o com seu nome, para entrar em seu e-mail)
+      
 - [x] Area Restrita ( Ambiente exclusivo, para cada cliente, com seu nome e informações ) | Resolução com funções;
 - [x] Encaminhar Email ( Enviar e-mail, com seus proprios dados, para outras empresas (Proprio email, pois nao tem empresas)) | Mailto
 - [x] Encaminhar dados ( Apenas autenticado, é permitido enviar seus dados ) 
