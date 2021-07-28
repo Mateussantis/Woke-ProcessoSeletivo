@@ -16,7 +16,7 @@ Desenvolvido em 8 horas.
 
 ## Problema
 
-<p align="center"> Muitas pessoas, na necessidade de conseguir uma oportunidade, acabam enviando centenas de curriculos, preenchendo também, centenas de diferentes curriculos em sites diferentes. Tomando não apenas um tempo desnecessario, que poderia ser gasto em outras atividades, como passar um tempo com a sua familia ou até mesmo estudar, mas também gastam muita energia, o que pode acabar sendo um ponto negativo ao começo do dia.</p>
+<p align="center"> Muitas pessoas, na necessidade de conseguir uma oportunidade, acabam enviando centenas de curriculos, preenchendo também, centenas de diferentes curriculos em sites diferentes. Tomando não apenas um tempo desnecessario, que poderia ser gasto em outras atividades, como passar um tempo com a sua familia ou até mesmo estudar, mas também gastam muita energia, o que pode acabar impactando negativamente, no começo do dia de uma pessoa.</p>
 
 
 
