@@ -58,7 +58,7 @@ Desenvolvido em 8 horas.
 
 
 
-<h3 id="decisoes">Decisões<h3>
+<h3 id="decisoes">Decisões</h3>
 	
 	<p>Optei neste projeto por utilizar duas tecnologias, uma para o front-End, sendo o React e a outra para desenvolver o backend, criar essa conexão da api, com o banco de dados, escolhi o FireStore ( FireBase ).
 	O React já não restava duvidas, que seria utilizado, pela praticidade e tecnologia, por ser em minha visão, a melhor biblioteca para javaScript. 
